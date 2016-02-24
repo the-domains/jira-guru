@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[JIRA Guru]]></title>
-        <description><![CDATA[JIRA Guru]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The JIRA Guru]]></title>
+        <description><![CDATA[The JIRA Guru]]></description>
+        <link>https://thegrid.ai/jira-guru/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 10:17:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 09:26:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jira-guru/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Show your love for Atlassian]]></title>
+            <description><![CDATA[<article><h1>Show your love for Atlassian</h1><p>You can now vote for the People's Choice Award for the BAMMIES - Atlassian are up there in the nominees, so get your vote in: http://influitive.com/advocate-marketing-awards/bammies-voting/#/entry/18782</p></article>]]></description>
+            <link>https://thegrid.ai/jira-guru/show-your-love-for-atlassian/index.html</link>
+            <guid isPermaLink="false">cdf02071-6921-4c31-aff2-91f0915aae83</guid>
+            <pubDate>Wed, 24 Feb 2016 09:26:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaabc0e4-03b8-40af-bcf8-acc0569d312b.png">]]></description>
