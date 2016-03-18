@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T10:07:58.606Z'
-dateModified: '2016-03-18T10:06:01.144Z'
+datePublished: '2016-03-18T10:12:25.100Z'
+dateModified: '2016-03-18T10:08:04.988Z'
 title: Free tutorials from Atlassian University
 author: []
+sourcePath: _posts/2016-03-18-free-tutorials-from-atlassian-university.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-free-tutorials-from-atlassian-university.md
-published: true
 url: free-tutorials-from-atlassian-university/index.html
 _type: Article
 
